@@ -83,6 +83,10 @@ h1{
  transform: rotate(-5deg);
 
 }
+.expand{
+font-size: 0.25rem;
+
+}
 .highlight {
 font-family: ultra, Georgia, serif ;
 display: inline-block;
@@ -174,7 +178,7 @@ figure{
 margin: 0px;
 }
 .article-image {
-width: 33%;
+width: 30%;
 float: left;
 margin-right: 1rem;
 }
@@ -239,4 +243,10 @@ nav{
     border-top: 1px solid #262626;
     border-bottom: 1px solid #262626;
     
+}
+
+footer{
+    text-align: left;
+    
+    font-size: 1rem;
 }
